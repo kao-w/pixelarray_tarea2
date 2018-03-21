@@ -1,1 +1,1 @@
-# tarea2
+# pixelarray_tarea2
